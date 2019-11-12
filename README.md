@@ -13,16 +13,16 @@
     <!-- <header>
         <div class="header">
             <ul>
-                <li><a href="">Datos personales</a></li>  // se puede cambiar lo de datos personales, borrar esta linea de comentario
-                <li><a href="">Competencias</a></li>	// se puede cambiar lo de competencias, borrar esta linea de comentario
-                <li><a href="">Conoce más</a></li>	// se puede cambiar lo de conoce mas, borrar esta linea de comentario
+                <li><a href="">Datos personales</a></li>  
+                <li><a href="">Competencias</a></li>	
+                <li><a href="">Conoce más</a></li>	
             </ul>
         </div>
     </header> -->
 
     <section>
         <div class="body">
-            <h1>Datos personales</h1>   	// se puede cambiar, borrar esta linea de comentario
+            <h1>Datos personales</h1>  
             <div class="data">
                 <img src="C:\Users\user\Downloads\Captura.PNG" alt="Img">    
                 <div class="info">
@@ -34,17 +34,17 @@
                     <p>StackOverflow: César Carrión</p>
                 </div>
             </div>
-            <h1>Competencias</h1> 			cambiar los datos personales	
+            <h1>Competencias</h1> 				
             <div class="split">
-                <h2>Conocimientos</h2>			cambiar los datos personales
+                <h2>Conocimientos</h2>			
                 <div class="split">
-                    <h3>Frontend</h3>			cambiar los datos personales				
-                    <p>Html y Css: Intermedio</p>	cambiar los datos personales
-                    <p>Javascript: Intermedio</p>	cambiar los datos personales
+                    <h3>Frontend</h3>							
+                    <p>Html y Css: Intermedio</p>	
+                    <p>Javascript: Intermedio</p>	
                 </div>			
                 <div class="split">
-                    <h3>Back-end</h3>				cambiar los datos personales
-                    <p>Php: Amateur</p><br>			cambiar los datos personales
+                    <h3>Back-end</h3>				
+                    <p>Php: Amateur</p><br>			
                 </div>
                 <div class="split">
                     <h3>Frameworks</h3>
@@ -52,8 +52,8 @@
                     <p>Bootstrap: Amateur</p><br>
                 </div>
                 <h2>Idiomas</h2>
-                <p>Ingles: Intermedio (Hablo menos de lo que escribo y escribo menos de lo que leo).</p>
-                <p>Aleman: Amateur (Puedo decir mi nombre)</p>
+                <p>Ingles: Intermedio.</p>
+                <p>Catalán: Avanzado</p>
             </div>
         </div>
 
@@ -66,10 +66,3 @@
 
 </body>
 </html>
-
-
-
-
-
-
-//pueden jugar adaptando todo a sus perfiles les ayudaria mas pero estoy a full y demasiado ocupado con muchisimas cosas que hacer :c sorry
