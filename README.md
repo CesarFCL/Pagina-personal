@@ -24,15 +24,14 @@
         <div class="body">
             <h1>Datos personales</h1>   	// se puede cambiar, borrar esta linea de comentario
             <div class="data">
-                <img src="./assets/userImg.jpg" alt="Img">    // aqui deben de poner una foto de perfil de ustedes, debe de ser la direccion en la que se encuetre en su computadora ejemplo C://windows//downloads/imagen.jpg dentro de las comillas o si no no les sale 
+                <img src="C:\Users\user\Downloads\Captura.PNG" alt="Img">    
                 <div class="info">
-                    <p>Apellido : Rodríguez Pérez</p>   cambiar los datos personales 
-                    <p>Nombre: Jeremy Saúl</p> 		cambiar los datos personales
-                    <p>Edad: 23 años</p>		cambiar los datos personales
-                    <p>Signo zodiacal: No creo en esas tonterias</p>   cambiar los datos personales
-                    <p>Github: VanillaUser</p>   	cambiar los datos personales
-                    <p>StackOverflow: VanillaUser</p> 	cambiar los datos personales
-                    <p>Twitter: @Denssed</p>  		cambiar los datos personales
+                    <p>Apellido : Carrión Loaiza</p>    
+                    <p>Nombre: César Francisco</p> 		
+                    <p>Edad: 18 años</p>		
+                    <p>Signo zodiacal: Aries</p>   
+                    <p>Github: CesarFLC</p>   
+                    <p>StackOverflow: César Carrión</p>
                 </div>
             </div>
             <h1>Competencias</h1> 			cambiar los datos personales	
