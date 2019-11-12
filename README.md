@@ -52,7 +52,6 @@
                 </div>
                 <h2>Idiomas</h2>
                 <p>Ingles: Intermedio.</p>
-                <p>Español: Avanzado</p>
                 <p>Catalán: Avanzado</p>
             </div>
         </div>
@@ -60,7 +59,6 @@
     </section>
     <footer>
         <div class="footer">
-            <p>informacion del codigo en <a href="https://github.com/VanillaUser/Personal-webpage/tree/master" >Webpage-personal</a></p>
         </div>
     </footer>
 
