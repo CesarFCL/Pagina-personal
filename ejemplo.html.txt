@@ -14,7 +14,7 @@
             <ul>
                 <li><a href="">Datos personales</a></li>  // se puede cambiar lo de datos personales, borrar esta linea de comentario
                 <li><a href="">Competencias</a></li>	// se puede cambiar lo de competencias, borrar esta linea de comentario
-                <li><a href="">Conoce más</a></li>	// se puede cambiar lo de conoce mas, borrar esta linea de comentario
+                <li><a href="">Conoce mÃ¡s</a></li>	// se puede cambiar lo de conoce mas, borrar esta linea de comentario
             </ul>
         </div>
     </header> -->
@@ -25,9 +25,9 @@
             <div class="data">
                 <img src="./assets/userImg.jpg" alt="Img">    // aqui deben de poner una foto de perfil de ustedes, debe de ser la direccion en la que se encuetre en su computadora ejemplo C://windows//downloads/imagen.jpg dentro de las comillas o si no no les sale 
                 <div class="info">
-                    <p>Apellido : Rodríguez Pérez</p>   cambiar los datos personales 
-                    <p>Nombre: Jeremy Saúl</p> 		cambiar los datos personales
-                    <p>Edad: 23 años</p>		cambiar los datos personales
+                    <p>Apellido : RodrÃ­guez PÃ©rez</p>   cambiar los datos personales 
+                    <p>Nombre: Jeremy SaÃºl</p> 		cambiar los datos personales
+                    <p>Edad: 23 aÃ±os</p>		cambiar los datos personales
                     <p>Signo zodiacal: No creo en esas tonterias</p>   cambiar los datos personales
                     <p>Github: VanillaUser</p>   	cambiar los datos personales
                     <p>StackOverflow: VanillaUser</p> 	cambiar los datos personales
@@ -72,4 +72,4 @@
 
 
 
-pueden jugar adaptando todo a sus perfiles les ayudaria mas pero estoy a full y demasiado ocupado con muchisimas cosas que hacer :c sorry 
+//pueden jugar adaptando todo a sus perfiles les ayudaria mas pero estoy a full y demasiado ocupado con muchisimas cosas que hacer :c sorry 
