@@ -22,8 +22,7 @@
     <section>
         <div class="body">
             <h1>Datos personales</h1>  
-            <div class="data">
-                <img src="C:\Users\user\Downloads\Captura.PNG" alt="Img">    
+            <div class="data">   
                 <div class="info">
                     <p>Apellido : Carrión Loaiza</p>    
                     <p>Nombre: César Francisco</p> 		
