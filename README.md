@@ -1,5 +1,4 @@
 # Pagina-personal
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -39,8 +38,8 @@
                 <h2>Conocimientos</h2>			
                 <div class="split">
                     <h3>Frontend</h3>							
-                    <p>Html y Css: Intermedio</p>	
-                    <p>Javascript: Intermedio</p>	
+                    <p>Html y Css: Amateur</p>	
+                    <p>Javascript: Amateur</p>	
                 </div>			
                 <div class="split">
                     <h3>Back-end</h3>				
@@ -53,6 +52,7 @@
                 </div>
                 <h2>Idiomas</h2>
                 <p>Ingles: Intermedio.</p>
+                <p>Español: Avanzado</p>
                 <p>Catalán: Avanzado</p>
             </div>
         </div>
