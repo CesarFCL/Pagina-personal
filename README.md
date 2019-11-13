@@ -26,7 +26,7 @@
                     <p>Apellido : Carrión Loaiza</p>    
                     <p>Nombre: César Francisco</p> 		
                     <p>Edad: 18 años</p>		
-                    <p>Signo zodiacal: Aries</p>   
+                    <p>Fecha de nacimiento: 28 de Marzo del 2001</p>   
                     <p>Github: CesarFLC</p>   
                     <p>StackOverflow: César Carrión</p>
                 </div>
