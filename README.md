@@ -1,4 +1,4 @@
-# Pagina-personal
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -51,7 +51,7 @@
         </div>
         <h1>Comentario Personal</h1> 				
             <div class="split">
-                <p>Lo presentado en esta pagina web es practicamente todo lo que he podido hacer con los nulos conocimientos que tengo sobre HTML, por lo que era de esperar que fuera una pagina bastante pobre en cuanto diseño y contenido, sera mejorada conforme obtenga los conocimientos necesarios para mejorarla.</p>
+                <p>Lo presentado en esta pagina web es practicamente todo lo que he podido hacer con los nulos conocimientos que tengo sobre HTML, por lo que era de esperar que fuera una pagina bastante pobre en cuanto a diseño y contenido, sera mejorada conforme obtenga los conocimientos necesarios para mejorarla.</p>
                 
         </div>
 
