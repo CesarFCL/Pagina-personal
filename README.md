@@ -8,6 +8,15 @@
     <title>Pagina Personal</title>
 </head>
 <body>
+    <!-- <header>
+        <div class="header">
+            <ul>
+                <li><a href="">Datos personales</a></li>
+                <li><a href="">Competencias</a></li>
+                <li><a href="">Conoce más</a></li>
+            </ul>
+        </div>
+    </header> -->
     <section>
         <div class="body">
             <h1>Datos personales</h1>  
@@ -39,5 +48,11 @@
                 <p>Catalán: Avanzado</p>
             </div>
         </div>
+         </section>
+    <footer>
+        <div class="footer">
+        </div>
+    </footer>
+    
 </body>
 </html>
