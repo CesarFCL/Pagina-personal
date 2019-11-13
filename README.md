@@ -25,7 +25,8 @@
                     <p>Apellido : Carrión Loaiza</p>    
                     <p>Nombre: César Francisco</p> 		
                     <p>Edad: 18 años</p>		
-                    <p>Fecha de nacimiento: 28 de Marzo del 2001</p>   
+                    <p>Fecha de nacimiento: 28 de Marzo del 2001</p>
+                    <p>País de origen: Ecuador</p> 
                     <p>Github: CesarFLC</p>   
                     <p>StackOverflow: César Carrión</p>
                 </div>
@@ -50,13 +51,15 @@
         </div>
         <h1>Comentario Personal</h1> 				
             <div class="split">
-                <p>Bueno, lo presentado en esta pagina web es practicamente todo lo que he podido hacer con los nulos conocimientos que tengo sobre HTML, por lo que era de esperar que fuera una pagina bastante pobre en cuanto diseño y contenido, sera mejorada conforme obtenga los conocimientos necesarios para mejorarla, total mi nota depende de esto :(.</p>
-            </div>
+                <p>Lo presentado en esta pagina web es practicamente todo lo que he podido hacer con los nulos conocimientos que tengo sobre HTML, por lo que era de esperar que fuera una pagina bastante pobre en cuanto diseño y contenido, sera mejorada conforme obtenga los conocimientos necesarios para mejorarla</p>
+       </div>
         </div>
-         </section>
+
+    </section>
     <footer>
         <div class="footer">
         </div>
     </footer>
+
 </body>
 </html>
