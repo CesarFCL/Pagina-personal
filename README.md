@@ -35,13 +35,9 @@
             <h1>Competencias</h1> 				
             <div class="split">
                 <h2>Conocimientos</h2>			
-                <div class="split">
-                    <h3>Frontend</h3>							
+                <div class="split">							
                     <p>Html y Css: Amateur</p>	
-                    <p>Javascript: Amateur</p>	
-                </div>			
-                <div class="split">
-                    <h3>Back-end</h3>				
+                    <p>Javascript: Amateur</p>				
                     <p>Php: Amateur</p><br>			
                 </div>
                 <div class="split">
