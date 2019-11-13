@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="./styles/main.css">
-    <H1 align="center"> Pagina Personal </H1>
+    <H1 align="center"> PAGINA PERSONAL </H1>
 </head>
 <body>
     <!-- <header>
