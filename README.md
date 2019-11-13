@@ -17,7 +17,6 @@
         </div>
     </header> -->
     <section>
-        ![alt tag](http://url/to/Captura.png)
         <div class="body">
             <h1>Datos personales</h1>  
             <div class="data">  
