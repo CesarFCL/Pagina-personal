@@ -1,4 +1,4 @@
-# PAGINA PERSONAL
+# Pagina-personal
 <html lang="en">
 <head>
     <meta charset="UTF-8">
