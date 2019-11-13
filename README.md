@@ -51,6 +51,8 @@
         <h1>Comentario Personal</h1> 				
             <div class="split">
                 <p>Bueno, lo presentado en esta pagina web es practicamente todo lo que he podido hacer con los nulos conocimientos que tengo sobre HTML, por lo que era de esperar que fuera una pagina bastante pobre en cuanto diseño y contenido :)>
+                    </div>
+        </div>
          </section>
     <footer>
         <div class="footer">
